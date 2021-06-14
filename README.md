@@ -10,5 +10,5 @@ pip install pandas
 Then in the package folder you should be able to run 
 pip install .
 
-From there you can enter either challenge-1, challenge-2 or challenge-3 to run to corresponding python code. 
+From there you can enter either challenge-1, challenge-4 or challenge-5 to run to corresponding python code. 
 
